@@ -1,5 +1,5 @@
 # Python Automation GUI
-This is a Python Automation GUI that can be used to **Automate boring Photoshop work of applying the watermark** to thousands of images and complete the tasks in *few minutes* which could have taken hours instead!
+This is a Python Automation GUI that can be used to **Automate boring Photoshop work of applying the watermark** to thousands of images and complete the tasks in a *few minutes* which could have taken hours instead!
 
 ![Screenshot of GUI](Automate_GUI.jpg)
 
